@@ -1,5 +1,22 @@
 ### Hi there 👋
 
+
+
+
+- 🤔 I’m looking for help with ...
+
+
+
+
+
+
+[![HitCount](http://hits.dwyl.com/showmana/showmana.svg)](http://hits.dwyl.com/showmana/showmana)
+
+
+
+
+
+
 <!--
 **showmana/showmana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
